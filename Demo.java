@@ -3,4 +3,6 @@ class Demo{
     {
         System.out.println("Welcome to GITHUB");
     }
+    public void f1(){
+    }
 }
